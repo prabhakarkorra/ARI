@@ -1,0 +1,1 @@
+2022-09-02 12:39:05|StartDicomServer | Only one usage of each socket address (protocol/network address/port) is normally permitted, Socket error code is AddressAlreadyInUse Native error code 10048
